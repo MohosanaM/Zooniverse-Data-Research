@@ -13,6 +13,7 @@ This repository documents my independent technical research contribution to the 
 - **Current Progress:** [Updating Daily]
 - **Baseline Classifications:** 100+ (Target: 500+ for statistical significance)
 - **Tools:** See `Zooniverse_Analysis.ipynb` for the automated visualization framework.
+ ![Zooniverse Classification Stats](visualizations/zooniverse_stats_march_2026.png)
 
 ### 🧠 Scientific Interpretation & Analysis
 > This data audit reveals a high prevalence of 'Smooth' morphological categories, highlighting the necessity for robust **Anomaly Detection** in astrophysical datasets. Applying a Data Integrity framework, I approach this as a validation challenge, ensuring that rare 'Features or Disk' galaxies are correctly identified amidst a majority of common subjects.
