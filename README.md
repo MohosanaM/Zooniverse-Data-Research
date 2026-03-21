@@ -9,12 +9,15 @@ This repository documents my independent technical research contribution to the 
 - **API Integration:** `panoptes-client` for real-time project metadata and subject set auditing.
 - **Goal:** To identify correlations between galactic "merger" events and anomalous data points.
 
-## 📊 Research Status & Findings
-- **Current Progress:** 104 Classifications Completed
-- **Audit Baseline:** N=100 (Verified via `classification_audit_100.csv`)
-- **Visual Analytics:** Generated via the automated framework in `Galaxy_Zoo_Analysis.ipynb`.
+## 📊 Research Status & Data Analysis
+- **Current Progress:** 104 Classifications (Verified via Zooniverse Dashboard)
+- **Technical Audit:** N=100 (Analyzed via Python)
 
-![Galaxy Morphological Distribution](visualizations/galaxy_distribution_100.png)
+### Zooniverse Activity
+![Dashboard](visualizations/zooniverse_stats_march_2026.png)
+
+### Morphological Distribution
+![Analysis Chart](visualizations/galaxy_distribution_100.png)
 
 ### 🧠 Scientific Interpretation & Analysis
 > This data audit reveals a prevalence of **Smooth/Rounded** morphological categories. From a Data Integrity perspective, I am utilizing this baseline to refine **Anomaly Detection** algorithms, ensuring that rare 'Merger' or 'Disturbed' galaxies are not filtered out as noise during large-scale automated processing.
